@@ -1,0 +1,16 @@
+drug_name,side_effect_name,severity,frequency,description
+Lisinopril,dry cough,mild,common,Persistent dry cough characteristic of ACE inhibitors
+Lisinopril,dizziness,moderate,common,"Lightheadedness and dizziness, especially when standing up"
+Metformin,gastrointestinal upset,moderate,common,"Stomach discomfort, nausea, and diarrhea"
+Metformin,metallic taste,mild,rare,"Metallic taste in mouth, especially with food"
+Atorvastatin,muscle pain,moderate,rare,Muscle aches and weakness
+Atorvastatin,liver problems,severe,rare,Elevated liver enzymes and potential liver damage
+Omeprazole,headache,mild,common,Headache and mild dizziness
+Omeprazole,stomach pain,moderate,common,Abdominal discomfort and stomach pain
+Amlodipine,swelling,moderate,rare,Swelling in ankles and feet
+Amlodipine,dizziness,mild,common,Dizziness and lightheadedness
+Simvastatin,muscle weakness,moderate,rare,Muscle weakness and fatigue
+Gabapentin,drowsiness,moderate,common,Drowsiness and fatigue
+Sertraline,nausea,mild,common,Nausea and upset stomach
+Albuterol,nervousness,mild,common,Increased anxiety and nervousness
+Levothyroxine,heart palpitations,moderate,rare,Irregular heartbeat and palpitations

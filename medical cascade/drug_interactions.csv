@@ -1,0 +1,9 @@
+drug_1,drug_2,interaction_severity,interaction_description
+Lisinopril,Omeprazole,moderate,May increase potassium levels
+Metformin,Amlodipine,mild,May cause additive blood pressure lowering
+Atorvastatin,Simvastatin,severe,Increased risk of muscle problems
+Omeprazole,Lisinopril,moderate,May reduce absorption of lisinopril
+Amlodipine,Metformin,mild,Generally safe combination
+Lisinopril,Amlodipine,moderate,Additive blood pressure effects
+Metformin,Omeprazole,mild,May affect metformin absorption
+Atorvastatin,Gabapentin,moderate,May increase dizziness risk
